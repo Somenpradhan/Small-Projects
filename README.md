@@ -1,2 +1,2 @@
 # Small-Projects
-A collections of small, creative projects showcasing HTML, CSS, and JavaScript. Perfect for exploring web development ideas and techniques.
+A collection of small, creative projects showcasing Python, HTML, CSS, and JavaScript. Perfect for exploring web development ideas and techniques.
